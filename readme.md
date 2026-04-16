@@ -54,6 +54,15 @@ streamlit run app.py
 
 ---
 
+▶️ How to Use
+Enter API endpoint URL
+Select HTTP method (GET/POST)
+Add headers or request body if needed
+Click "Send Request"
+View response, status code, and validation results
+
+---
+
 ## 🧪 Sample APIs Tested
 
 You can test the dashboard using these public APIs:
